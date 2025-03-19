@@ -25,7 +25,7 @@ I am a Ph.D. student at University of Science and Technology Beijing, where I am
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/overview_final (2).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAM2Object: Consolidating View Consistency via SAM2 for Zero-Shot 3D Instance Segmentation](https://jihuaizhaohd.github.io/SAM2Object/)
